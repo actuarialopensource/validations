@@ -1,2 +1,3 @@
 # validations
- hand picked values to test table parsing
+
+use validate1d.csv to validate tables with 1 axis. validate2d.csv to validate 2d tables. 

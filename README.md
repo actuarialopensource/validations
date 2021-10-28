@@ -1,3 +1,4 @@
 # validations
 
-use validate1d.csv to validate tables with 1 axis. validate2d.csv to validate 2d tables. 
+* `validate_pymort.jl` validates all the values from table `3277` between pymort and mortalitytables.jl
+* `validate_manual.jl` validates mortalitytables.jl against a hand-picked set of data.
